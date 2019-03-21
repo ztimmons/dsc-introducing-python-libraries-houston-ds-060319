@@ -52,7 +52,9 @@ The functionality of the SciPy library is built on top of NumPy, and its data st
 
 ### Statsmodels 
 Statsmodels is a library for Python that enables its users to conduct data exploration via the use of various methods of estimation of statistical models and performing statistical assertions and analysis.
+
 <img src="images/statsmodels-logo-300.png" width="250">
+
 One of the many useful features it provides is a comprehensive set of descriptive statistics. The library provides insights when diagnosing issues with linear regression models, generalized linear models, discrete choice models, robust linear models, and time series analysis models with various estimators.
 
 The library also provides extensive plotting functions that are designed specifically for statistical analysis and are optimized for good performance with large data sets.
