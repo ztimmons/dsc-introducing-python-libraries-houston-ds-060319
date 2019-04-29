@@ -36,7 +36,7 @@ Numpy is also used as a foundation for other more advanced libraries as we shall
 
 ### SciPy
 
-In the data science domain, Python’s SciPy Stack ( a collection of software specifically designed for scientific computing ) is used heavily for conducting scientific experiments. The SciPy library is as an integral part of this stack.
+In the data science domain, Python’s SciPy Stack (a collection of software specifically designed for scientific computing) is used heavily for conducting scientific experiments. The SciPy library is as an integral part of this stack.
 
 <img src="images/scipy.png" width="150">
 
@@ -110,10 +110,9 @@ The library, however,  is pretty low-level which means that you will need to wri
 
 ### Seaborn
 
-Seaborn is complementary to Matplotlib and it specifically targets statistical data visualizations, which may be more time-consuming to implement using Matplotlib. Seaborn extends the functionality of Matplotlib and that’s why it can address the two biggest issues of working with Matplotlib - the Quality of plots and Parameter defaults.
+Seaborn is complementary to Matplotlib and it specifically targets statistical data visualizations, which may be more time-consuming to implement using Matplotlib. Seaborn extends the functionality of Matplotlib and that’s why it can address the two biggest issues of working with Matplotlib - the Quality of plots and Parameter defaults. A full overview on Seaborn's capabilities (as the image below) can be found [here](https://seaborn.pydata.org/examples/index.html).
 
-
-<img src="images/seaborn.jpeg" width="500">
+<img src="images/seaborn_2.png" width="500">
 
 >If matplotlib “tries to make easy things easy and hard things possible”, seaborn tries to make a well-defined set of hard things easy too.
 
@@ -124,20 +123,20 @@ As Seaborn compliments and extends Matplotlib. If you know Matplotlib, you’ll 
 
 Scikits provide Scientific "kits" on top of SciPy Stack. These are designed to add specific functionality to SciPy like image processing and machine learning facilitation. For machine learning, one of the most heavily used package is **scikit-learn**. The package makes heavy use of its mathematical operations to model and test complex computational algorithms.
 
-<img src="images/sklearn.png" width=200>
+<img src="images/sklearn.png" width="200">
 
-Scikit-learn (sometimes abbreviated to sklearn) offers a consistent interface to common Machine Learning (ML) algorithms, making it simple to bring ML into production systems. The library combines quality code and good documentation, ease of use and high performance and has become industry standard for machine learning with Python. The image below highlights the key machine learning algorithms that come packaged with sklearn for problems in classification, regression, clustering and dimensionality reduction.
+Scikit-learn (sometimes abbreviated to sklearn) offers a consistent interface to common Machine Learning (ML) algorithms, making it simple to bring ML into production systems. The library combines quality code and good documentation, ease of use and high performance and has become industry standard for machine learning with Python. The image below highlights the key machine learning algorithms that come packaged with sklearn for problems in classification, regression, clustering and dimensionality reduction. You can find an interactive version of the machine learning map below [here](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html).
 
-<img src="images/drop_shadows_background.png" width=800>
+<img src="images/drop_shadows_background.png" width="850">
 
 
-## Deep Learning  ( Keras / TensorFlow )
+## Deep Learning  (Keras / TensorFlow)
 
 For Deep Learning, one of the most popular and convenient libraries for Python is Keras, which builds on top of TensorFlow.
 
 ### TensorFlow
 
-Developed by a team of ML experts at Google, TensorFlow is an open-source library of data flow graph computations, which are fine-tuned for heavy duty Machine Learning. TensorFlow was designed to meet the performance requirements of Google for training Deep Neural Networks in order to analyze visual and textual data. However, TensorFlow isn’t limited to scientific use - it is general enough to use in a variety of real-world application.
+Developed by a team of ML experts at Google, TensorFlow is an open-source library of data flow graph computations, which are fine-tuned for heavy duty Machine Learning. TensorFlow was designed to meet the performance requirements of Google for training Deep Neural Networks in order to analyze visual and textual data. However, TensorFlow isn't limited to scientific use - it is general enough to use in a variety of real-world application.
 
 <img src="images/tf.png" width="320">
 
@@ -151,7 +150,7 @@ Keras is an open-source library for building Neural Networks with a high-level o
 
 <img src="images/keras.jpg" width="320">
 
-Keras is really eased to get started with and for quick prototyping. It is highly modular and extendable. Notwithstanding its ease, simplicity, and high-level orientation, Keras is still deep and powerful enough for serious modeling. In the deep learning section of our course, we shall introduce you to Keras to help you deep dive into deep neural networks.
+Keras is really eased to get started with and for quick prototyping. It is highly modular and extendible. Notwithstanding its ease, simplicity, and high-level orientation, Keras is still deep and powerful enough for serious modeling. In the deep learning section of our course, we shall introduce you to Keras to help you deep dive into deep neural networks.
 
 ## Summary 
 
